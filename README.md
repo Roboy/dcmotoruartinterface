@@ -1,6 +1,6 @@
 ### Description ###
 The dcmotorUARTInterface is a command line interface for low-level communication with the dc motors via UART.
-It works through driver library libserial. 
+It works through driver library [libserial](http://sourceforge.net/projects/libserial/)
 
 ### Dependencies ###
 install libserial (on linux) via:
